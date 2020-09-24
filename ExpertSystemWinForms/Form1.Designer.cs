@@ -103,11 +103,11 @@
             this.radioButton31 = new System.Windows.Forms.RadioButton();
             this.radioButton32 = new System.Windows.Forms.RadioButton();
             this.panel17 = new System.Windows.Forms.Panel();
-            this.radioButton33 = new System.Windows.Forms.RadioButton();
-            this.radioButton34 = new System.Windows.Forms.RadioButton();
             this.panel18 = new System.Windows.Forms.Panel();
             this.radioButton35 = new System.Windows.Forms.RadioButton();
             this.radioButton36 = new System.Windows.Forms.RadioButton();
+            this.radioButton33 = new System.Windows.Forms.RadioButton();
+            this.radioButton34 = new System.Windows.Forms.RadioButton();
             this.panel19 = new System.Windows.Forms.Panel();
             this.radioButton37 = new System.Windows.Forms.RadioButton();
             this.radioButton38 = new System.Windows.Forms.RadioButton();
@@ -920,28 +920,6 @@
             this.panel17.Size = new System.Drawing.Size(174, 25);
             this.panel17.TabIndex = 21;
             // 
-            // radioButton33
-            // 
-            this.radioButton33.AutoSize = true;
-            this.radioButton33.Location = new System.Drawing.Point(12, 3);
-            this.radioButton33.Name = "radioButton33";
-            this.radioButton33.Size = new System.Drawing.Size(48, 21);
-            this.radioButton33.TabIndex = 60;
-            this.radioButton33.TabStop = true;
-            this.radioButton33.Text = "Да";
-            this.radioButton33.UseVisualStyleBackColor = true;
-            // 
-            // radioButton34
-            // 
-            this.radioButton34.AutoSize = true;
-            this.radioButton34.Location = new System.Drawing.Point(107, 2);
-            this.radioButton34.Name = "radioButton34";
-            this.radioButton34.Size = new System.Drawing.Size(54, 21);
-            this.radioButton34.TabIndex = 61;
-            this.radioButton34.TabStop = true;
-            this.radioButton34.Text = "Нет";
-            this.radioButton34.UseVisualStyleBackColor = true;
-            // 
             // panel18
             // 
             this.panel18.Controls.Add(this.radioButton35);
@@ -972,6 +950,28 @@
             this.radioButton36.TabStop = true;
             this.radioButton36.Text = "Нет";
             this.radioButton36.UseVisualStyleBackColor = true;
+            // 
+            // radioButton33
+            // 
+            this.radioButton33.AutoSize = true;
+            this.radioButton33.Location = new System.Drawing.Point(12, 3);
+            this.radioButton33.Name = "radioButton33";
+            this.radioButton33.Size = new System.Drawing.Size(48, 21);
+            this.radioButton33.TabIndex = 60;
+            this.radioButton33.TabStop = true;
+            this.radioButton33.Text = "Да";
+            this.radioButton33.UseVisualStyleBackColor = true;
+            // 
+            // radioButton34
+            // 
+            this.radioButton34.AutoSize = true;
+            this.radioButton34.Location = new System.Drawing.Point(107, 2);
+            this.radioButton34.Name = "radioButton34";
+            this.radioButton34.Size = new System.Drawing.Size(54, 21);
+            this.radioButton34.TabIndex = 61;
+            this.radioButton34.TabStop = true;
+            this.radioButton34.Text = "Нет";
+            this.radioButton34.UseVisualStyleBackColor = true;
             // 
             // panel19
             // 
@@ -1108,7 +1108,7 @@
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form1";
             this.Text = "Тест \"Ваш темперамент\"";
-           
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
