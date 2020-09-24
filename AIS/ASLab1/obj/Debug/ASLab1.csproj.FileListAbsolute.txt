@@ -1,0 +1,11 @@
+C:\Users\5525m\source\repos\ASLab1\ASLab1\bin\Debug\ASLab1.exe.config
+C:\Users\5525m\source\repos\ASLab1\ASLab1\bin\Debug\ASLab1.exe
+C:\Users\5525m\source\repos\ASLab1\ASLab1\bin\Debug\ASLab1.pdb
+C:\Users\5525m\source\repos\ASLab1\ASLab1\obj\Debug\ASLab1.csprojAssemblyReference.cache
+C:\Users\5525m\source\repos\ASLab1\ASLab1\obj\Debug\ASLab1.csproj.CoreCompileInputs.cache
+C:\Users\5525m\source\repos\ASLab1\ASLab1\obj\Debug\ASLab1.exe
+C:\Users\5525m\source\repos\ASLab1\ASLab1\obj\Debug\ASLab1.pdb
+C:\Users\5525m\source\repos\ASLab1\ASLab1\bin\Debug\NLog.config
+C:\Users\5525m\source\repos\ASLab1\ASLab1\bin\Debug\NLog.dll
+C:\Users\5525m\source\repos\ASLab1\ASLab1\bin\Debug\NLog.xml
+C:\Users\5525m\source\repos\ASLab1\ASLab1\obj\Debug\ASLab1.csproj.CopyComplete
