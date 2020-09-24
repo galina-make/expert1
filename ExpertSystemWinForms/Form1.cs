@@ -208,7 +208,7 @@ namespace ExpertSystemWinForms
         {
             int a = 10;
 
-
+            
             int t = 17; 
         }
     }
